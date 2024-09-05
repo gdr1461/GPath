@@ -7,4 +7,9 @@
 </div>
 <br>
 
-![GPath Logo Transparent](https://github.com/user-attachments/assets/a589dee8-f95e-462f-b388-46c58f65d4ab)
+Easy-to-use Roblox tool that lets you create PathFind instances. <br /><br />
+<br />
+![GPath Logo Transparent](https://github.com/user-attachments/assets/7d929439-3f14-4181-9917-4cf618ca0b2e) <br />
+***
+Download module [here](https://create.roblox.com/store/asset/135289157298272/GPath?tab=description). <br />
+See more [at wiki](https://github.com/gdr1461/GPath/wiki). <br />
